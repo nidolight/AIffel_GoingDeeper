@@ -22,7 +22,7 @@
 
 
 
-[E-01]: https://github.com/nidolight/AIffel_GoingDeeper/blob/main/%5BG-01%5DResNet34_50/%5BG-01%5DResNet34_50.ipynb
+[E-01]: https://github.com/nidolight/AIffel_GoingDeeper/blob/main/%5BG-02%5DResNet34_50/%5BG-02%5DResNet34_50.ipynb
 
 [E-02]: https://github.com/nidolight/AIffel_GoingDeeper/blob/main/%5BG-04%5DCutmix_Mixup_augmentation/%5BG_04%5DCutmix_Mixup_augmentation.ipynb
 
